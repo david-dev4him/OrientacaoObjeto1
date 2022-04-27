@@ -1,0 +1,2 @@
+C:\David\David-2022\FAEL\ProgComputadores\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.csprojAssemblyReference.cache
+C:\David\David-2022\FAEL\ProgComputadores\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\OrientacaoObjetos.csproj.CoreCompileInputs.cache
